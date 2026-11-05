@@ -1,4 +1,4 @@
-## Hi there 👋
+I make roblox games as a hobby and I apply it to computer science; no vibe coding
 
 <!--
 **danzner/danzner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
