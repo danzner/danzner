@@ -1,6 +1,11 @@
-# I make roblox games as a hobby and I apply it to computer science; no vibe coding
+## Me
+I make roblox games as a hobby and now im trying to make a living out of it
 
+## Connections
+[YouTube][https://www.youtube.com/@obliviouslydan]
 
+## Learning
+C++, HTML, CSS, JS
 <!--
 **danzner/danzner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
